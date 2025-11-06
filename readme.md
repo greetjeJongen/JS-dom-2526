@@ -19,8 +19,9 @@ In index.html vind je div#oef2.
       <p>Rode kaarten: 0</p>
     </article>
 ```
-- Maak nu een functie voetbal(ploegen, datum, aantalRodeKaarten) die dezelfde HTML toevoegt aan de div, maar nu voor de gegeven ploegen, datum en aantal rode kaarten. Gebruik de functie om 2 extra voetbal uitslagen te maken.
-- Pas de functie aan zodat de laatste regel rood wordt weergegeven als er minstens één rode kaart is. Gebruik de CSS klasse .rodeKaart hiervoor.
+- Maak nu een functie voetbal(ploegen, datum, aantalRodeKaarten) die dezelfde HTML toevoegt aan de div, maar nu met de parameters van de functie als ploeg, datum en aantal rode kaarten. Gebruik de functie om 2 extra voetbal uitslagen te tonen op het scherm.
+- Pas de functie aan zodat de laatste paragraaf rood wordt weergegeven als er minstens één rode kaart is. Gebruik de CSS klasse .rodeKaart hiervoor.
+
 
 # 3. vierkant met getallen
  Schrijf code die een vierkant met de gegeven zijde maakt met opeenvolgende getallen, startend met 1. Dit moet het ongeveer worden:
