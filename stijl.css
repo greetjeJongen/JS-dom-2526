@@ -1,0 +1,31 @@
+.rodeKaart {
+  color: red;
+}
+
+table {
+  border-collapse: collapse;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+td {
+  padding: 10px;
+  text-align: center;
+}
+
+.even {
+  text-decoration: underline;
+}
+
+.drievoud {
+  font-weight: bold;
+}
+
+.vijfvoud {
+  color: red;
+}
