@@ -1,8 +1,8 @@
 Je krijgt voor deze opgave de HTML, de CSS en de startregel van het student.js bestand. Je schrijft code in student.js.
 
 # 1. Voetbal uitslagen 
-In index.html vind je div#oef1. Schrijf JS code zodat
-- deze HTML toegevoegd wordt aan de div:
+In index.html vind je div#oef1. 
+- Schrijf JS code zodat deze HTML toegevoegd wordt aan de div:
 ```
     <article>
       <h3>Cercle Brugge - OH Leuven</h3>
