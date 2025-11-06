@@ -1,7 +1,16 @@
 Je krijgt voor deze opgave de HTML, de CSS en de startregel van het student.js bestand. Je schrijft code in student.js.
 
-# 1. Voetbal uitslagen 
-In index.html vind je div#oef1. 
+# 1. Huidige tijdstip
+In index.html vind je div#oef1. Gebruik JS om in die div een paragraaf aan te maken 
+die aangeeft om hoe laat de pagina geladen werd. 
+Gebruik volgende code om het huidige tijdstip te bepalen en te tonen in JS (zie ook [de documentatie](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/Date))
+```
+const now = new Date();
+const currentTime = now.toLocaleTimeString();
+```
+
+# 2. Voetbal uitslagen 
+In index.html vind je div#oef2. 
 - Schrijf JS code zodat deze HTML toegevoegd wordt aan de div:
 ```
     <article>
@@ -13,7 +22,7 @@ In index.html vind je div#oef1.
 - Maak nu een functie voetbal(ploegen, datum, aantalRodeKaarten) die dezelfde HTML toevoegt aan de div, maar nu voor de gegeven ploegen, datum en aantal rode kaarten. Gebruik de functie om 2 extra voetbal uitslagen te maken.
 - Pas de functie aan zodat de laatste regel rood wordt weergegeven als er minstens één rode kaart is. Gebruik de CSS klasse .rodeKaart hiervoor.
 
-# 2. vierkant met getallen
+# 3. vierkant met getallen
  Schrijf code die een vierkant met de gegeven zijde maakt met opeenvolgende getallen, startend met 1. Dit moet het ongeveer worden:
 ![screenshot vierkant](img/screenshotVierkant.png)
 

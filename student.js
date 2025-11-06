@@ -1,5 +1,6 @@
 // Oefening 1: Voetbal uitslagen 
-
+const now = new Date();
+console.log(now.toLocaleTimeString());
 
 
 // Oefening 2: Getallenvierkant
