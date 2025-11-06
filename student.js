@@ -1,9 +1,8 @@
-// Oefening 1: Voetbal uitslagen 
-const now = new Date();
-console.log(now.toLocaleTimeString());
+// Oefening 1: Tijdstip van laden
 
+// Oefening 2: Voetbal uitslagen 
 
-// Oefening 2: Getallenvierkant
+// Oefening 3: Getallenvierkant
 const zijde = 14; // kan je later aanpassen om grotere of kleinere vierkanten te tekenen
 
 // schrijf hieronder je code  
