@@ -23,7 +23,7 @@ In index.html vind je div#oef2.
 - Pas de functie aan zodat de laatste paragraaf rood wordt weergegeven als er minstens één rode kaart is. Gebruik de CSS klasse .rodeKaart hiervoor.
 
 
-# 3. vierkant met getallen
+# 3. Vierkant met getallen
  Schrijf code die een vierkant met de gegeven zijde maakt met opeenvolgende getallen, startend met 1. Dit moet het ongeveer worden:
 ![screenshot vierkant](img/screenshotVierkant.png)
 
