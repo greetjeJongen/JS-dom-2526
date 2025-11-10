@@ -22,8 +22,16 @@ In index.html vind je div#oef2.
 - Maak nu een functie `voetbal(ploegen, datum, aantalRodeKaarten)` die dezelfde HTML toevoegt aan de div, maar nu met de parameters van de functie als ploeg, datum en aantal rode kaarten. Gebruik de functie om 2 extra voetbal uitslagen te tonen op het scherm.
 - Pas de functie aan zodat de laatste paragraaf rood wordt weergegeven als er minstens één rode kaart is. Gebruik de CSS klasse .rodeKaart hiervoor.
 
+# 3. Waterpolo uitslagen
+In index.html vind je div#oef3 met enkele uitslagen van waterpolo wedstrijden. Schrijf JS code zodat 
+- de informatie van de wedstrijd Leuven-Oostende verwijderd wordt (volledige article).
+- de paragraaf met het aantal goals bij de wedstrijd Leuven-La Louviere verwijderd wordt. Je mag niets veranderen aan de gegeven HTML.
+- het style attribuut van de andere match verwijderd wordt.
 
-# 3. Vierkant met getallen
+Controleer of de voetbal uitslagen er nog steeds staan! 
+
+
+# 4. Vierkant met getallen
  Schrijf code die een vierkant met de gegeven zijde maakt met opeenvolgende getallen, startend met 1. Dit moet het ongeveer worden:
 ![screenshot vierkant](img/screenshotVierkant.png)
 
